@@ -6,4 +6,5 @@ MongoDB Cluster-to-Cluster Synchronization
 
 Your words here. Don't forget to add a toctree!
 
+Have a lovely day!
 
